@@ -1,5 +1,7 @@
 # LightsOutGame
 
+[Create "Lights Out" Game - Phoenix LiveView Tutorial](https://www.youtube.com/watch?v=hrpulBR5PFg)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
